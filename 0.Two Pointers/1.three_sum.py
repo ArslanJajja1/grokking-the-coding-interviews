@@ -77,3 +77,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# TC = O(N^2)
+# SC = O(1)
